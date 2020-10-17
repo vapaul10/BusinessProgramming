@@ -1,0 +1,9 @@
+python
+same
+different
+more 
+less
+grande
+minor
+loco
+normal
